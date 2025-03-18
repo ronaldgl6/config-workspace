@@ -126,7 +126,7 @@ alias lsl="lsd -l"
 alias cat="batcat"
 alias catn="/bin/cat"
 alias cls="clear"
-alias fzfn='nvim $(fzf --preview="bat {}")'
+alias fzfn='nvim $(fzf --preview="batcat {}")'
 
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
